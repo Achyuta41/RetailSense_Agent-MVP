@@ -77,6 +77,7 @@ Retail Manager
 - Pandas & NumPy  
 - Scikit-Learn or Prophet  
 - Streamlit  
+- N8N (Automation)
 - SMTP (Email Automation)  
 - Walmart Sales Dataset (Kaggle)  
 
@@ -97,6 +98,15 @@ Product: Milk
 Current Stock: 40  
 Predicted Demand: 75  
 Recommended Reorder: 35 units  
+
+---
+
+## 📩 Sample Email Alert
+
+
+![alt text](sample_alerts/alert_sample1.jpeg)
+
+![alt text](sample_alerts/alert_sample2.jpeg)
 
 ---
 
